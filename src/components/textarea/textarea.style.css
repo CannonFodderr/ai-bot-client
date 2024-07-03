@@ -1,0 +1,9 @@
+textarea {
+    width: 100%;
+    outline: none;
+    background-color: transparent;
+    resize: none;
+    border: none;
+    text-indent: 1vw;
+    margin: 0.5vw 0;
+}
